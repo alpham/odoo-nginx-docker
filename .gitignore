@@ -1,5 +1,3 @@
-
-/odoo_saas.iml
 /.idea/
 /nginx/secrets/dhparam.pem
 /nginx/secrets/server.key
