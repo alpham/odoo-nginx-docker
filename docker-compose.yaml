@@ -12,8 +12,6 @@ services:
       POSTGRES_PASSWORD: odoopwd
   odoo:
     build: ./odoo
-    env_file:
-      - ./odoo/saas_config
 #    deploy:
 #      replicas: 3
     volumes:
