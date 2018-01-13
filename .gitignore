@@ -1,6 +1,6 @@
 
 /odoo_saas.iml
 /.idea/
-#/nginx/secrets/dhparam.pem
-#/nginx/secrets/server.key
-#/nginx/secrets/server.crt
+/nginx/secrets/dhparam.pem
+/nginx/secrets/server.key
+/nginx/secrets/server.crt
